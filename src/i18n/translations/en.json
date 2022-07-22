@@ -1,0 +1,13 @@
+{
+  "hello": "Hello world!!",
+  "language": "Language",
+  "count": "count is: {count}",
+  "home": "Home",
+  "about": "About",
+  "service": "Service",
+  "posts": "Posts",
+  "button": {
+    "back": "Back"
+  },
+  "not-found": "Not found"
+}
